@@ -9,10 +9,9 @@ Install these first before applying the settings.
 
 ```
 {
-	"color_scheme": "Packages/1337 Color Scheme/1337.tmTheme",
-	"theme": "Cobalt2.sublime-theme",
+	"color_scheme": "Packages/One Dark Color Scheme/One Dark.tmTheme",
 	"drag_text": false,
-	"font_size": 10,
+	"font_size": 9,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -23,12 +22,15 @@ Install these first before applying the settings.
 		"draw_normal",
 		"draw_active"
 	],
-	"sidebar_font_big": true,
+	"save_on_focus_lost": false,
+	"sidebar_font_big": false,
 	"sidebar_medium": true,
-	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
 	"tab_sze": 4,
+	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false
 }
+
 
 ```
