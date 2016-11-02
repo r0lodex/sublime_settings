@@ -6,6 +6,7 @@ Install these first before applying the settings.
 - 1337 Color Scheme
 - Cobalt2
 - Soda
+- One Dark
 
 ```
 {
