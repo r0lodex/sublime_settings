@@ -34,7 +34,7 @@ Install these first before applying the settings.
 	"drag_text": false,
 	"draw_white_space": "all",
 	"font_face": "Consolas",
-	"font_size": 14,
+	"font_size": 15,
 	"highlight_line": false,
 	"ignored_packages":
 	[
@@ -69,7 +69,7 @@ Install these first before applying the settings.
 	"theme_tab_width_auto": true,
 	"theme_tooltips_font_sm": true,
 	"translate_tabs_to_spaces": true,
-	"word_wrap": false
+	"word_wrap": true,
 }
 
 
